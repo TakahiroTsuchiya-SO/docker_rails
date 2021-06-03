@@ -4,7 +4,11 @@
 ## docker環境を構築
 
 ### コンテナをビルド
-''' docker-compose build '''
+'''
+docker-compose build
+'''
 
 ### コンテナ立ち上げ
-''' docker-compose up '''
+'''
+docker-compose up
+'''
