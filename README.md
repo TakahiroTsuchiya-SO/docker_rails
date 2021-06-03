@@ -1,24 +1,10 @@
-# README
+# Rails tutorial
+[railsチュートリアル](https://railstutorial.jp/chapters/beginning?version=5.0)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## docker環境を構築
 
-Things you may want to cover:
+### コンテナをビルド
+''' docker-compose build '''
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### コンテナ立ち上げ
+''' docker-compose up '''
