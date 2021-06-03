@@ -28,7 +28,7 @@ git init
 ```
 git remote set-url origin {new url}
 ```
- 
+
 ## herokuデプロイ
 ### コンテナ落とす
 ```
